@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ContactsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-09-06T05:14:36" hostname="sorrow" time="1.488">
+  <properties/>
+  <testcase name="start" classname="ContactsTest" time="1.488"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+[menu] Enter action (add, list, search, count, exit): > exit
+
+?[1;31m
+Start test 2?[0m
+[menu] Enter action (add, list, search, count, exit): > count
+The Phone Book has 0 records.
+
+[menu] Enter action (add, list, search, count, exit): > exit
+
+?[1;31m
+Start test 3?[0m
+[menu] Enter action (add, list, search, count, exit): > add
+Enter the type (person, organization): > person
+Enter name: > John
+Enter surname: > Smith
+Enter birthday: > 
+Enter gender: > 
+Enter number: > 123 456 789
+The record added.
+
+[menu] Enter action (add, list, search, count, exit): > count
+The Phone Book has 1 records.
+
+[menu] Enter action (add, list, search, count, exit): > exit
+
+?[1;31m
+Start test 4?[0m
+[menu] Enter action (add, list, search, count, exit): > add
+Enter the type (person, organization): > person
+Enter name: > John
+Enter surname: > Smith
+Enter birthday: > 
+Enter gender: > 
+Enter number: > 123 456 789
+The record added.
+
+[menu] Enter action (add, list, search, count, exit): > list
+1. John Smith
+
+[list] Enter action ([number], back): > 1
+Name: John
+Surname: Smith
+Birth date: [no data]
+Gender: [no data]
+Number: 123 456 789
+Time created: 2020-09-06T00:14:37.014379
+Time last edit: 2020-09-06T00:14:37.035125
+
+[record] Enter action (edit, delete, menu): > menu
+
+[menu] Enter action (add, list, search, count, exit): > exit
+
+?[1;31m
+Start test 5?[0m
+[menu] Enter action (add, list, search, count, exit): > add
+Enter the type (person, organization): > organization
+Enter name: > Pizza Shop
+Enter address: > Wall St. 1
+Enter number: > +0 (123) 456-789-9999
+The record added.
+
+[menu] Enter action (add, list, search, count, exit): > list
+1. Pizza Shop
+
+[list] Enter action ([number], back): > 1
+Organization name: Pizza Shop
+Address: Wall St. 1
+Number: +0 (123) 456-789-9999
+Time created: 2020-09-06T00:14:37.177408
+Time last edit: 2020-09-06T00:14:37.185722
+
+[record] Enter action (edit, delete, menu): > menu
+
+[menu] Enter action (add, list, search, count, exit): > exit
+
+?[1;31m
+Start test 6?[0m
+[menu] Enter action (add, list, search, count, exit): > add
+Enter the type (person, organization): > person
+Enter name: > John
+Enter surname: > Smith
+Enter birthday: > 
+Enter gender: > 
+Enter number: > 123 456 789
+The record added.
+
+[menu] Enter action (add, list, search, count, exit): > list
+1. John Smith
+
+[list] Enter action ([number], back): > 1
+Name: John
+Surname: Smith
+Birth date: [no data]
+Gender: [no data]
+Number: 123 456 789
+Time created: 2020-09-06T00:14:37.291030
+Time last edit: 2020-09-06T00:14:37.299599
+
+[record] Enter action (edit, delete, menu): > edit
+Select a field (name, surname, birthday, gender, number): > gender
+Enter gender: > M
+Saved
+Name: John
+Surname: Smith
+Birth date: [no data]
+Gender: M
+Number: 123 456 789
+Time created: 2020-09-06T00:14:37.291030
+Time last edit: 2020-09-06T00:14:37.335900
+
+[record] Enter action (edit, delete, menu): > menu
+
+[menu] Enter action (add, list, search, count, exit): > list
+1. John Smith
+
+[list] Enter action ([number], back): > 1
+Name: John
+Surname: Smith
+Birth date: [no data]
+Gender: M
+Number: 123 456 789
+Time created: 2020-09-06T00:14:37.291030
+Time last edit: 2020-09-06T00:14:37.335900
+
+[record] Enter action (edit, delete, menu): > menu
+
+[menu] Enter action (add, list, search, count, exit): > exit
+
+?[1;31m
+Start test 7?[0m
+[menu] Enter action (add, list, search, count, exit): > add
+Enter the type (person, organization): > organization
+Enter name: > Pizza Shop
+Enter address: > Wall St. 1
+Enter number: > +0 (123) 456-789-9999
+The record added.
+
+[menu] Enter action (add, list, search, count, exit): > list
+1. Pizza Shop
+
+[list] Enter action ([number], back): > 1
+Organization name: Pizza Shop
+Address: Wall St. 1
+Number: +0 (123) 456-789-9999
+Time created: 2020-09-06T00:14:37.408208
+Time last edit: 2020-09-06T00:14:37.418324
+
+[record] Enter action (edit, delete, menu): > edit
+Select a field (name, address, number): > address
+Enter address: > Wall St 2
+Saved
+Organization name: Pizza Shop
+Address: Wall St 2
+Number: +0 (123) 456-789-9999
+Time created: 2020-09-06T00:14:37.408208
+Time last edit: 2020-09-06T00:14:37.469114
+
+[record] Enter action (edit, delete, menu): > menu
+
+[menu] Enter action (add, list, search, count, exit): > list
+1. Pizza Shop
+
+[list] Enter action ([number], back): > 1
+Organization name: Pizza Shop
+Address: Wall St 2
+Number: +0 (123) 456-789-9999
+Time created: 2020-09-06T00:14:37.408208
+Time last edit: 2020-09-06T00:14:37.469114
+
+[record] Enter action (edit, delete, menu): > menu
+
+[menu] Enter action (add, list, search, count, exit): > exit
+
+?[1;31m
+Start test 8?[0m
+[menu] Enter action (add, list, search, count, exit): > add
+Enter the type (person, organization): > organization
+Enter name: > Pizza Shop
+Enter address: > Wall St. 1
+Enter number: > +0 (123) 456-789-9999
+The record added.
+
+[menu] Enter action (add, list, search, count, exit): > add
+Enter the type (person, organization): > person
+Enter name: > John
+Enter surname: > Smith
+Enter birthday: > 
+Enter gender: > 
+Enter number: > 123 456 789
+The record added.
+
+[menu] Enter action (add, list, search, count, exit): > add
+Enter the type (person, organization): > organization
+Enter name: > PizzaNuts
+Enter address: > Wall St. 6
+Enter number: > +0 (123) 456-789-9999
+The record added.
+
+[menu] Enter action (add, list, search, count, exit): > search
+Enter search query: > pizz
+1. Pizza Shop
+2. PizzaNuts
+
+[search] Enter action ([number], back, again): > 1
+Organization name: Pizza Shop
+Address: Wall St. 1
+Number: +0 (123) 456-789-9999
+Time created: 2020-09-06T00:14:37.551264
+Time last edit: 2020-09-06T00:14:37.558542
+
+[record] Enter action (edit, delete, menu): > menu
+
+[menu] Enter action (add, list, search, count, exit): > exit
+
+?[1;31m
+Start test 9?[0m
+[menu] Enter action (add, list, search, count, exit): > add
+Enter the type (person, organization): > organization
+Enter name: > Pizza Shop
+Enter address: > Wall St. 1
+Enter number: > +0 (123) 456-789-9999
+The record added.
+
+[menu] Enter action (add, list, search, count, exit): > add
+Enter the type (person, organization): > person
+Enter name: > John
+Enter surname: > Smith
+Enter birthday: > 
+Enter gender: > 
+Enter number: > 123 456 789
+The record added.
+
+[menu] Enter action (add, list, search, count, exit): > add
+Enter the type (person, organization): > organization
+Enter name: > PizzaNuts
+Enter address: > Wall St. 6
+Enter number: > +0 (123) 456-789-9999
+The record added.
+
+[menu] Enter action (add, list, search, count, exit): > search
+Enter search query: > s
+1. Pizza Shop
+2. John Smith
+3. PizzaNuts
+
+[search] Enter action ([number], back, again): > 1
+Organization name: Pizza Shop
+Address: Wall St. 1
+Number: +0 (123) 456-789-9999
+Time created: 2020-09-06T00:14:37.750386
+Time last edit: 2020-09-06T00:14:37.762563
+
+[record] Enter action (edit, delete, menu): > menu
+
+[menu] Enter action (add, list, search, count, exit): > exit
+
+?[1;31m
+Start test 10?[0m
+[menu] Enter action (add, list, search, count, exit): > add
+Enter the type (person, organization): > organization
+Enter name: > Pizza Shop
+Enter address: > Wall St. 1
+Enter number: > +0 (123) 456-789-9999
+The record added.
+
+[menu] Enter action (add, list, search, count, exit): > add
+Enter the type (person, organization): > person
+Enter name: > John
+Enter surname: > Smith
+Enter birthday: > 
+Enter gender: > 
+Enter number: > 123 456 789
+The record added.
+
+[menu] Enter action (add, list, search, count, exit): > add
+Enter the type (person, organization): > organization
+Enter name: > PizzaNuts
+Enter address: > Wall St. 6
+Enter number: > +0 (123) 456-781-9999
+The record added.
+
+[menu] Enter action (add, list, search, count, exit): > search
+Enter search query: > 789
+1. Pizza Shop
+2. John Smith
+
+[search] Enter action ([number], back, again): > 1
+Organization name: Pizza Shop
+Address: Wall St. 1
+Number: +0 (123) 456-789-9999
+Time created: 2020-09-06T00:14:37.893769
+Time last edit: 2020-09-06T00:14:37.902120
+
+[record] Enter action (edit, delete, menu): > menu
+
+[menu] Enter action (add, list, search, count, exit): > exit
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

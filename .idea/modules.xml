@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Contacts.iml" filepath="$PROJECT_DIR$/.idea/modules/Contacts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Contacts/task/Contacts.Contacts-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Contacts/task/Contacts.Contacts-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Contacts/task/Contacts.Contacts-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Contacts/task/Contacts.Contacts-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Contacts/task/Contacts.Contacts-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Contacts/task/Contacts.Contacts-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Balance management/Contacts.Problems-Balance_management.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Balance management/Contacts.Problems-Balance_management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Balance management/Contacts.Problems-Balance_management.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Balance management/Contacts.Problems-Balance_management.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Balance management/Contacts.Problems-Balance_management.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Balance management/Contacts.Problems-Balance_management.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Builder/Contacts.Problems-Builder.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Builder/Contacts.Problems-Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Builder/Contacts.Problems-Builder.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Builder/Contacts.Problems-Builder.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Builder/Contacts.Problems-Builder.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Builder/Contacts.Problems-Builder.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Builder (1)/Contacts.Problems-Builder__1_.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Builder (1)/Contacts.Problems-Builder__1_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Builder (1)/Contacts.Problems-Builder__1_.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Builder (1)/Contacts.Problems-Builder__1_.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Builder (1)/Contacts.Problems-Builder__1_.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Builder (1)/Contacts.Problems-Builder__1_.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Danger levels/Contacts.Problems-Danger_levels.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Danger levels/Contacts.Problems-Danger_levels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Danger levels/Contacts.Problems-Danger_levels.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Danger levels/Contacts.Problems-Danger_levels.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Danger levels/Contacts.Problems-Danger_levels.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Danger levels/Contacts.Problems-Danger_levels.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Days of week/Contacts.Problems-Days_of_week.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Days of week/Contacts.Problems-Days_of_week.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Days of week/Contacts.Problems-Days_of_week.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Days of week/Contacts.Problems-Days_of_week.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Days of week/Contacts.Problems-Days_of_week.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Days of week/Contacts.Problems-Days_of_week.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Subway Sandwich/Contacts.Problems-Subway_Sandwich.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Subway Sandwich/Contacts.Problems-Subway_Sandwich.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Subway Sandwich/Contacts.Problems-Subway_Sandwich.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Subway Sandwich/Contacts.Problems-Subway_Sandwich.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Subway Sandwich/Contacts.Problems-Subway_Sandwich.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Subway Sandwich/Contacts.Problems-Subway_Sandwich.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Contacts.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Contacts.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Contacts.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Contacts.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Contacts.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Contacts.util.test.iml" />
+    </modules>
+  </component>
+</project>
